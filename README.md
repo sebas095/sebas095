@@ -6,7 +6,7 @@ I'm full stack web developer especially in JS technologies.
 [![GitHub sebas095](https://img.shields.io/github/followers/sebas095?label=follow&style=social)](https://github.com/sebas095)
 
 ## Some projects...
-- [Social Media Dashboard]() - Repo [Here](https://github.com/sebas095/frontendmentor-social-media-dashboard)
+- [Social Media Dashboard](https://sebas095.github.io/frontendmentor-social-media-dashboard/public/) - Repo [Here](https://github.com/sebas095/frontendmentor-social-media-dashboard)
 - [Weather App](https://sebas095.github.io/weather-app/) - Repo [Here](https://github.com/sebas095/weather-app)
 - [Hooks Reducer - Context](https://sebas095.github.io/hooks-reducer-context/) - Repo [Here](https://github.com/sebas095/hooks-reducer-context)
 - [Web Stories Practrice](https://web-stories-2020.web.app/) - Repo [Here](https://github.com/sebas095/web-stories-practice)
