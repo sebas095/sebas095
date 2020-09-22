@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**sebas095/sebas095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm full stack web developer especially in JS technologies.
 
-Here are some ideas to get you started:
+[![Twitter: sebasd095](https://img.shields.io/twitter/follow/sebasd095?style=social)](https://twitter.com/sebasd095)
+[![GitHub sebas095](https://img.shields.io/github/followers/sebas095?label=follow&style=social)](https://github.com/sebas095)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some projects...
+- [Social Media Dashboard]() - Repo [Here](https://github.com/sebas095/frontendmentor-social-media-dashboard)
+- [Weather App](https://sebas095.github.io/weather-app/) - Repo [Here](https://github.com/sebas095/weather-app)
+- [Hooks Reducer - Context](https://sebas095.github.io/hooks-reducer-context/) - Repo [Here](https://github.com/sebas095/hooks-reducer-context)
+- [Web Stories Practrice](https://web-stories-2020.web.app/) - Repo [Here](https://github.com/sebas095/web-stories-practice)
+- [Basic Gatsby Ecommerce](https://gatsby-my-ecommerce-site.netlify.app/) - Repo [Here](https://github.com/sebas095/gatsby-ecommerce-site)
+- [Gatsby Practice](https://practice1-gatsby.netlify.app/) - Repo [Here](https://github.com/sebas095/curso-gatsby)
+- [React Bookstore App](https://sebas095.github.io/react-bookstore-app/) - Repo [Here](https://github.com/sebas095/react-bookstore-app)
+- [Redux Practice](https://sebas095.github.io/redux-basic-practice/) - Repo [Here](https://github.com/sebas095/redux-basic-practice)
+- [React Todo List](https://sebas095.github.io/react-todolist-app/) - Repo [Here](https://github.com/sebas095/react-todolist-app)
+- [Tic Tac Toe](https://sebas095.github.io/tic-tac-toe/) - Repo [Here](https://github.com/sebas095/tic-tac-toe)
+- [More...](https://github.com/sebas095?tab=repositories) 
