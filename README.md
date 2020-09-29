@@ -17,3 +17,5 @@ I'm full stack web developer especially in JS technologies.
 - [React Todo List](https://sebas095.github.io/react-todolist-app/) - Repo [Here](https://github.com/sebas095/react-todolist-app)
 - [Tic Tac Toe](https://sebas095.github.io/tic-tac-toe/) - Repo [Here](https://github.com/sebas095/tic-tac-toe)
 - [More...](https://github.com/sebas095?tab=repositories) 
+
+![Github Stats for Sebastian Duque](https://github-readme-stats.vercel.app/api?username=sebas095&show_icons=true&theme=tokyonight)
