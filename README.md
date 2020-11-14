@@ -11,6 +11,7 @@ I'm full stack web developer especially in JS technologies.
 - [Weather App](https://sebas095.github.io/weather-app/) - Repo [Here](https://github.com/sebas095/weather-app)
 - [Hooks Reducer - Context](https://sebas095.github.io/hooks-reducer-context/) - Repo [Here](https://github.com/sebas095/hooks-reducer-context)
 - [Web Stories Practrice](https://web-stories-2020.web.app/) - Repo [Here](https://github.com/sebas095/web-stories-practice)
+- [React SSR Practice](https://react-ssr-mlibre.herokuapp.com/) - Repo [Here](https://github.com/sebas095/react-ssr-practice)
 - [Basic Gatsby Ecommerce](https://gatsby-my-ecommerce-site.netlify.app/) - Repo [Here](https://github.com/sebas095/gatsby-ecommerce-site)
 - [Gatsby Practice](https://practice1-gatsby.netlify.app/) - Repo [Here](https://github.com/sebas095/curso-gatsby)
 - [React Bookstore App](https://sebas095.github.io/react-bookstore-app/) - Repo [Here](https://github.com/sebas095/react-bookstore-app)
