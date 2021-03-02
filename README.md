@@ -8,6 +8,7 @@ I'm full stack web developer especially in JS technologies.
 ## Some projects...
 - [Bookmark Landing Page](https://sebas095.github.io/frontendmentor-bookmark-landing-page/) - Repo [Here](https://github.com/sebas095/frontendmentor-bookmark-landing-page)
 - [Social Media Dashboard](https://sebas095.github.io/frontendmentor-social-media-dashboard/public/) - Repo [Here](https://github.com/sebas095/frontendmentor-social-media-dashboard)
+- [Frontend Tricks](https://sebas095.github.io/frontend-tricks/) - Repo [Here](https://github.com/sebas095/frontend-tricks)
 - [Weather App](https://sebas095.github.io/weather-app/) - Repo [Here](https://github.com/sebas095/weather-app)
 - [Hooks Reducer - Context](https://sebas095.github.io/hooks-reducer-context/) - Repo [Here](https://github.com/sebas095/hooks-reducer-context)
 - [Web Stories Practrice](https://web-stories-2020.web.app/) - Repo [Here](https://github.com/sebas095/web-stories-practice)
@@ -18,6 +19,11 @@ I'm full stack web developer especially in JS technologies.
 - [Redux Practice](https://sebas095.github.io/redux-basic-practice/) - Repo [Here](https://github.com/sebas095/redux-basic-practice)
 - [React Todo List](https://sebas095.github.io/react-todolist-app/) - Repo [Here](https://github.com/sebas095/react-todolist-app)
 - [React Tic Tac Toe](https://sebas095.github.io/tic-tac-toe/) - Repo [Here](https://github.com/sebas095/tic-tac-toe)
+- [Firebase Practice](https://fire-app-2020.web.app/) - Repo [Here](https://github.com/sebas095/fire-quotes)
 - [More...](https://github.com/sebas095?tab=repositories) 
+
+## My contributions
+- [primes and factors](https://github.com/sebas095/primes-and-factors) - NPM [here](https://www.npmjs.com/package/primes-and-factors)
+- [ceseve](https://github.com/carlosazaustre/ceseve) - NPM [here](https://www.npmjs.com/package/ceseve)
 
 ![Github Stats for Sebastian Duque](https://github-readme-stats.vercel.app/api?username=sebas095&show_icons=true&theme=tokyonight)
